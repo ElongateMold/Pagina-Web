@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="font-size:120px;">Ingeniería Informática</h1>
+
+<p style="font-size:30px;">Hola</p>
+
+<p> Aquí algunos juegos interesantes</p>
+<a href="https://www.friv.com/"target="_blank"> Juegos Friv</a>
+
+<img src="https://th.bing.com/th/id/R.402eb2139704e9725a53185d0ea17116?rik=bDwqPLQT0wMY1A&riu=http%3a%2f%2fwww.hackeame.net%2fwp-content%2fuploads%2f2012%2f02%2fJuegos-Friv-los-mejores-gratis.jpg&ehk=1Bj%2fQzrFilV8bA9EhyoAeRszrLskmZEQNBu0RFQ%2fn2E%3d&risl=&pid=ImgRaw&r=0" alt="HTML tutorial"alt="HTML tutorial" style="width:840px;height:360px;">
+
+<a href="https://classic.minecraft.net/?join=aD74ufhQjHkK6vl3"target="_blank"> Minecraft Clásico Online</a>
+
+<img src="https://cdnb.artstation.com/p/assets/images/images/013/535/601/large/supawit-oat-fin1.jpg?1540053395"alt="HTML tutorial" style="width:840px;height:360px;">
+
+</body>
+</html>
